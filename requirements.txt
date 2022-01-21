@@ -4,7 +4,7 @@ backports.ssl-match-hostname==3.5.0.1
 bokeh==0.12.1
 configparser==3.3.0.post2
 cssselect==0.9.1
-ipython==4.0.0
+ipython==7.16.3
 ipython-genutils==0.1.0
 jupyter==1.0.0
 jupyter-client==4.2.2
