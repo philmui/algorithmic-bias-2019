@@ -13,7 +13,7 @@ jupyter-core==4.1.0
 lxml==3.6.0
 matplotlib==1.5.1
 nbconvert==4.2.0
-numpy==1.10.4
+numpy==1.22.0
 openpyxl==2.3.5
 oauthlib==1.0.3
 pandas==0.18.0
